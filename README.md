@@ -1,4 +1,4 @@
-# GCP Hackathon Assessment — Order Pipeline + AI Agent
+# GCP  Order Pipeline + AI Agent
 
 An end-to-end mock/live data pipeline that ingests order data, validates it, loads it into BigQuery, publishes a completion event via Pub/Sub, and answers natural-language questions using a Gemini-powered agent with two tools: customer order lookup and FAQ retrieval (RAG).
 
